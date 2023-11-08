@@ -1,7 +1,7 @@
 {
   "name": "huck-theme",
   "displayName": "huck-theme",
-  "description": "",
+  "description": "Tema escuro com a cor verde em destaque !!!!",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.84.0"
@@ -13,10 +13,10 @@
   "categories": [
     "Themes"
   ],
-  "icon": "icon.jpeg",
+  "icon": "icon.jpg",
   "repository": {
   "type": "git",
-  "url": "https://github.com/NoslekCode/draquinho.git"
+  "url": "https://github.com/NoslekCode/huck-theme.git"
 },
 "keywords": [
   "huck",
